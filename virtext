@@ -219,7 +219,26 @@ install(){
 load
 install
     load
-    clear
+sleep 0.25
+echo ""
+echo -e $red "_____ $blue _____ $red _____ $blue _____"
+sleep 0.25
+echo -e $lightgreen "Author : $lightcyan HadiPrasetia"
+sleep 0.25
+echo -e $red "Email : $blue Tampanskyyt@gmail.com"
+sleep 0.25
+echo -e $lightgreen "Nomor Whatsapp : $lightcyan 087887986528"
+sleep 0.25
+echo -e $red "Thanks To $blue Suport Me "
+sleep 0.25
+echo -e $lightgreen "Thanks Assyfa Mawarni And My Mother"
+sleep 0.25
+echo -e $red "_____ $blue _____ $red _____ $blue _____"
+sleep 0.25
+echo ""
+read -p nob
+if [ $nob="y" ]
+then
     banner
     echo -e $blue "SELAMAT MENGGUNAKAN VIRTEXT:v"
     echo -e $cyan "===============$blue==============="
