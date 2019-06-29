@@ -33,30 +33,35 @@ damnika(){
     sleep 1.25
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/fileku/blob/master/Virtex01.txt
+    echo -e $green "selesai"
 }
 PSCT(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/fileku/blob/master/Virtext02.txt
+    echo -e $green "selesai"
 }
 RED(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/fileku/blob/master/Virtext03.txt
+    echo -e $green "selesai"    
 }
 Net(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
  wget https://github.com/tampansky/fileku/blob/master/virtext04.txt
+     echo -e $green "selesai"
 }
 Not(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
    wget https://github.com/tampansky/fileku/blob/master/virtext05.txt
+       echo -e $green "selesai"
 }
 load(){
 clear
