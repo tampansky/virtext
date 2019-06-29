@@ -179,31 +179,7 @@ r(){
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext25.txt
 }
-s(){
-
-}
-t(){
-
-}
-u(){
-
-}
-v(){
-
-}
-w(){
-
-}
-x(){
-
-}
-y(){
-
-}
-z(){
-
-}
-load
+load(){
 clear
 echo -e $red "MENGHUBUNGKAN..."
 sleep 0.25
