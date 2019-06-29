@@ -196,6 +196,16 @@ clear
 echo -e $red "MENGHUBUNGKAN..."
 sleep 0.25        
 }
+banner(){
+    echo -e " ___ ___ __        __                __ "  | lolcat
+    sleep 0.25
+    echo -e "|   |   |__|.----.|  |_.-----.--.--.|  |_ " | lolcat
+    sleep 0.30
+    echo -e "|   |   |  ||   _||   _|  -__|_   _||   _|" | lolcat
+    sleep 0.25
+    echo -e " \_____/|__||__|  |____|_____|__.__||____|" |lolcat 
+    sleep 1                                     
+}
 install(){
     sleep 0.25
     clear
@@ -210,8 +220,9 @@ load
 install
     load
     clear
+    banner
     echo -e $blue "SELAMAT MENGGUNAKAN VIRTEXT:v"
-    echo -e $cyan "_-_-_-_-_-_-_-_-_-_-_ $blue -_-_-_-_-_-_-_-_-_-_-_"
+    echo -e $cyan "===============$blue==============="
     echo -e $blue "[1] VIRTEXT 01 $cyan [2] VIRTEXT 02"
     echo -e $cyan "[3] VIRTEXT 03 $blue [4] VIRTEXT 04"
     echo -e $blue "[5] VIRTEXT 05 $cyan [6] VIRTEXT 06"
@@ -225,7 +236,7 @@ install
     echo -e $blue "[21] VIRTEXT 21 $cyan [22] VIRTEXT 22"
     echo -e $cyan "[23] VIRTEXT 23 $blue [24] VIRTEXT 25"
     echo -e $blue "[25] VIRTEXT 25 $cyan [26] KELUAR/Exit."
-    echo -e $cyan "_-_-_-_-_-_-_-_-_-_-_ $blue -_-_-_-_-_-_-_-_-_-_-_"
+    echo -e $cyan "===============$blue==============="
     echo -n -e "$blue root$white@$lightgreen./virtext$white:$red~$cyan # $nc"
     read -e lol
     case $lol in
