@@ -33,6 +33,8 @@ damnika(){
     sleep 1.25
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/fileku/blob/master/Virtex01.txt
+        clear
+    load
     echo -e $green "selesai"
 }
 PSCT(){
@@ -40,6 +42,8 @@ PSCT(){
     sleep 1.25
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/fileku/blob/master/Virtext02.txt
+    clear
+    load
     echo -e $green "selesai"
 }
 RED(){
@@ -47,6 +51,8 @@ RED(){
     sleep 1.25
     echo -e $blue "Membuat Folder..."
     wget https://github.com/tampansky/fileku/blob/master/Virtext03.txt
+        clear
+    load
     echo -e $green "selesai"    
 }
 Net(){
@@ -54,6 +60,8 @@ Net(){
     sleep 1.25
     echo -e $blue "Membuat Folder..."
  wget https://github.com/tampansky/fileku/blob/master/virtext04.txt
+     clear
+    load
      echo -e $green "selesai"
 }
 Not(){
@@ -61,6 +69,8 @@ Not(){
     sleep 1.25
     echo -e $blue "Membuat Folder..."
    wget https://github.com/tampansky/fileku/blob/master/virtext05.txt
+       clear
+    load
        echo -e $green "selesai"
 }
 load(){
@@ -100,7 +110,7 @@ install
     echo -e $cyan "[3] VIRTEXT 03 $blue [4] VIRTEXT 04"
     echo -e $blue "[5] VIRTEXT 05 $cyan [6] EXIT.     "
     echo -e $cyan "_-_-_-_-_-_-_-_-_-_-_ $blue -_-_-_-_-_-_-_-_-_-_-_"
-    echo -n -e "$yellow root$white@$lightgreen/webdav$white:$red~$cyan # $nc"
+    echo -n -e "$yellow root$white@$lightgreen/virtext$white:$red~$cyan # $nc"
     read -e lol
     case $lol in
     ("1")
