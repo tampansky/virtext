@@ -39,9 +39,6 @@ clear
 baner
 pkg update 
 pkg upgrade 
-pkg install ruby 
-gem install lolcat 
-pkg install toilet 
-pkg install figlet 
-pkg install curl 
+pkg install nano
+sleep 11
 bash virtext
