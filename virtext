@@ -236,9 +236,8 @@ sleep 0.25
 echo -e $red "_____ $blue _____ $red _____ $blue _____"
 sleep 0.25
 echo ""
-read -p "y?n" nob
-if [ $nob="y" ]
-then
+sleep 5
+clear
     banner
     echo -e $blue "SELAMAT MENGGUNAKAN VIRTEXT:v"
     echo -e $cyan "===============$blue==============="
