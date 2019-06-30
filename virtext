@@ -207,6 +207,7 @@ banner(){
     sleep 1                                     
 }
 install(){
+    termux-setup-storage
     sleep 0.25
     clear
     pkg install ruby -y
