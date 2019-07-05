@@ -32,152 +32,152 @@ damnika(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtex01.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex01.txt
 }
 PSCT(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext02.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex02.txt
 }
 RED(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext03.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex03.txt
 }
 Net(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext04.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex04.txt
 }
 Not(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/fileku/blob/master/virtext05.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex05.txt
 }
 virtext(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext06.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex06.txt
 }
 di(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext07.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex07.txt
 }
 a(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext08.txt
-}
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex08.txt 
+    }
 b(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext09.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex09.txt
 }
 c(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext10.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex10.txt
 }
 d(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext11.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex11.txt
 }
 e(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext12.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex12.txt
 }
 f(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext13.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex13.txt
 }
 g(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext14.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex14.txt
 }
 h(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext15.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex15.txt
 }
 i(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext16.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex16.txt
 }
 j(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext17.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex17.txt
 
 }
 k(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext18.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex18.txt
 }
 l(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext19.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex19.txt
 }
 m(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext20.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex20.txt
 }
 n(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext21.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex21.txt
 }
 o(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext22.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex22.txt
 }
 p(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext23.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex23.txt
 }
 q(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext24.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex24.txt
 }
 r(){
     echo -e $blue "Menunggu Ea Boedjank"
     sleep 1.25
     echo -e $blue "Membuat Folder..."
-    wget https://github.com/tampansky/kumpulan-jomblo/blob/master/virtext25.txt
+    wget https://raw.githubusercontent.com/tampansky/kumpulan-jomblo/master/virtex25.txt
 }
 load(){
 clear
